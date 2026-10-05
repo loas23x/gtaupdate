@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "format": 2,
+  "version": 1791236181,
+  "size": 7783936,
+  "sha256": "64ac933c3b7059423012a18f467729fffbbb910137e225f528bac46809a4eb4d",
+  "dll_sha256": "ab31a44486bc1eb05828d0c7b8de355e4cb0ebed55108c397671457260fe953d",
+  "name": "launcher-1791236181.exe",
+  "signature": "e35a615ce2aaf646305443d2bbf26cbcb12087fcd216cc6317a0e5a8f7b68268ddb5acf8521d3481b951fb9341c5f78d36bf837273b56c878ab65cc4349779b4"
+}
